@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Check out my awesome [homepage](https://gratoiale.github.io).
+
+I also made this [wonderful xmas card](https://gratoiale.github.io/joulukortti). You should totally see it out as well, thanks please plox!
+
 <!--
 **gratoiale/gratoiale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
